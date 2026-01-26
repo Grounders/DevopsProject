@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("Hello DevOps World!");
-		System.out.println("Devops is wonderful!")
+        System.out.println("Devops is wonderful!");
+		
     }
 }
